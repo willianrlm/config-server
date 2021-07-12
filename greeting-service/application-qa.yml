@@ -3,10 +3,4 @@ spring:
     name: greeting-service
 greeting-service:
   greeting: "Olá"
-  default-value: "Willian"
-management:
-  endpoints:
-    web:
-      exposure:
-        include:
-        - '*'
+  default-value: "QA"
