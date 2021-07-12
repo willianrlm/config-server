@@ -2,5 +2,5 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "Olá"
+  greeting: "Perflo"
   default-value: "PERF"
